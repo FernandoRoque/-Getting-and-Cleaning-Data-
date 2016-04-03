@@ -41,9 +41,10 @@ Objetive:
 Clean the Dara Set for further analiysis. The analysis results in a clean data set according to the next points:
 
 1. Geat a data set containing train and test data.
-2. 
+2. Keep only variables that represents mean a standar deviation.
+3. Get a new data set that contains the mean of echa o variables defined in pont 2 grouped by subjet and activities.
 
-
+The run_analysis.R code accomplish all this task. This code contains a brief descriptions of each steps.
 
 License:
 ========
