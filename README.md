@@ -50,17 +50,9 @@ The run_analysis.R code accomplish all this task. This code contains a brief des
 
 Above code results in a data set of 68 variables and 10299 observations. Variables names are the following:
 
-"Subject"
-"Activities"
-"tBodyAccmeanX"
-"tBodyAccmeanY"
-"tBodyAccmeanZ"
-"tGravityAccmeanX"
-"tGravityAccmeanY"
-"tGravityAccmeanZ"
-"tBodyAccJerkmeanX"
-"tBodyAccJerkmeanY"
-"tBodyAccJerkmeanZ"
+"Subject", "Activities", "tBodyAccmeanX", "tBodyAccmeanY", 
+"tBodyAccmeanZ", "tGravityAccmeanX", "tGravityAccmeanY", "tGravityAccmeanZ", 
+"tBodyAccJerkmeanX", "tBodyAccJerkmeanY", "tBodyAccJerkmeanZ", 
 "tBodyGyromeanX", "tBodyGyromeanY", "tBodyGyromeanZ", "tBodyGyroJerkmeanX", 
 "tBodyGyroJerkmeanY", "tBodyGyroJerkmeanZ", "tBodyAccMagmean", 
 "tGravityAccMagmean", "tBodyAccJerkMagmean", "tBodyGyroMagmean", 
@@ -77,7 +69,6 @@ Above code results in a data set of 68 variables and 10299 observations. Variabl
 "fBodyAccstdZ", "fBodyAccJerkstdX", "fBodyAccJerkstdY", "fBodyAccJerkstdZ", 
 "fBodyGyrostdX", "fBodyGyrostdY", "fBodyGyrostdZ", "fBodyAccMagstd", 
 "fBodyBodyAccJerkMagstd", "fBodyBodyGyroMagstd", "fBodyBodyGyroJerkMagstd"
-)
 
 
 
