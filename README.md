@@ -44,7 +44,42 @@ Clean the Dara Set for further analiysis. The analysis results in a clean data s
 2. Keep only variables that represents mean a standar deviation.
 3. Get a new data set that contains the mean of echa o variables defined in pont 2 grouped by subjet and activities.
 
+Results:
+========
 The run_analysis.R code accomplish all this task. This code contains a brief descriptions of each steps.
+
+Above code results in a data set of 68 variables and 10299 observations. Variables names are the following:
+
+"Subject"
+"Activities"
+"tBodyAccmeanX"
+"tBodyAccmeanY"
+"tBodyAccmeanZ"
+"tGravityAccmeanX"
+"tGravityAccmeanY"
+"tGravityAccmeanZ"
+"tBodyAccJerkmeanX"
+"tBodyAccJerkmeanY"
+"tBodyAccJerkmeanZ"
+"tBodyGyromeanX", "tBodyGyromeanY", "tBodyGyromeanZ", "tBodyGyroJerkmeanX", 
+"tBodyGyroJerkmeanY", "tBodyGyroJerkmeanZ", "tBodyAccMagmean", 
+"tGravityAccMagmean", "tBodyAccJerkMagmean", "tBodyGyroMagmean", 
+"tBodyGyroJerkMagmean", "fBodyAccmeanX", "fBodyAccmeanY", "fBodyAccmeanZ", 
+"fBodyAccJerkmeanX", "fBodyAccJerkmeanY", "fBodyAccJerkmeanZ", 
+"fBodyGyromeanX", "fBodyGyromeanY", "fBodyGyromeanZ", "fBodyAccMagmean", 
+"fBodyBodyAccJerkMagmean", "fBodyBodyGyroMagmean", "fBodyBodyGyroJerkMagmean", 
+"tBodyAccstdX", "tBodyAccstdY", "tBodyAccstdZ", "tGravityAccstdX", 
+"tGravityAccstdY", "tGravityAccstdZ", "tBodyAccJerkstdX", "tBodyAccJerkstdY", 
+"tBodyAccJerkstdZ", "tBodyGyrostdX", "tBodyGyrostdY", "tBodyGyrostdZ", 
+"tBodyGyroJerkstdX", "tBodyGyroJerkstdY", "tBodyGyroJerkstdZ", 
+"tBodyAccMagstd", "tGravityAccMagstd", "tBodyAccJerkMagstd", 
+"tBodyGyroMagstd", "tBodyGyroJerkMagstd", "fBodyAccstdX", "fBodyAccstdY", 
+"fBodyAccstdZ", "fBodyAccJerkstdX", "fBodyAccJerkstdY", "fBodyAccJerkstdZ", 
+"fBodyGyrostdX", "fBodyGyrostdY", "fBodyGyrostdZ", "fBodyAccMagstd", 
+"fBodyBodyAccJerkMagstd", "fBodyBodyGyroMagstd", "fBodyBodyGyroJerkMagstd"
+)
+
+
 
 License:
 ========
