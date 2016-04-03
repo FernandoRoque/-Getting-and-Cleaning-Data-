@@ -36,7 +36,12 @@ The Proyect uses the following files:
 - 'train/subject_train.txt' and 'train/subject_test.txt': Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
 
 
+Objetive:
+========
+Clean the Dara Set for further analiysis. The analysis results in a clean data set according to the next points:
 
+1. Geat a data set containing train and test data.
+2. 
 
 
 
