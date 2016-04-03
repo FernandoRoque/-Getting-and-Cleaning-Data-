@@ -75,6 +75,9 @@ tBodyGyroJerkMean
 
 The complete list of variables of each feature vector is available in 'features.txt'
 
+Notes: 
+======
+- Features are normalized and bounded within [-1,1].
 
 For each record it is provided:
 ======================================
