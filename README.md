@@ -112,7 +112,7 @@ Results:
 ========
 The run_analysis.R code accomplish all this task. This code contains a brief descriptions of each steps.
 
-Above code results in a data set of 68 variables and 10299 observations. Variables names are the following:
+The first table results is x_y_meas_n data set object that consistcontains 68 variables and 10299 observations. Variables names are the following:
 
 "Subject", "Activities", "tBodyAccmeanX", "tBodyAccmeanY", 
 "tBodyAccmeanZ", "tGravityAccmeanX", "tGravityAccmeanY", "tGravityAccmeanZ", 
@@ -134,6 +134,7 @@ Above code results in a data set of 68 variables and 10299 observations. Variabl
 "fBodyGyrostdX", "fBodyGyrostdY", "fBodyGyrostdZ", "fBodyAccMagstd", 
 "fBodyBodyAccJerkMagstd", "fBodyBodyGyroMagstd", "fBodyBodyGyroJerkMagstd"
 
+The second resulty is mean_meas data set object that consistcontains the mean of the 66 numeric variables grouped by subject an activitie.
 
 
 License:
